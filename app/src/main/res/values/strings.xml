@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Game Demo</string>
+    <string name="tapMe">TAP ME!</string>
+    <string name="yourScore">Your score: %1$d</string>
+    <string name="timeLeft">Time Left: %1$d</string>
+    <string name="gameOverMessage">Time\'s up! Your score was: %1$d</string>
+
+
+</resources>
