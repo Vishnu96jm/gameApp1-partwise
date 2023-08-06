@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity(){
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.d(TAG, TAG)
+        Log.d(TAG, "On create called")
 
         tapMeButton = findViewById(R.id.tapMeButton)
         gameScoreTextView = findViewById(R.id.gameScoreTextView)
